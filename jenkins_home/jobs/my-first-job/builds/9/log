@@ -1,0 +1,7 @@
+Started by user [8mha:////4A3UtBPVobWRNIh+ekKpdkXhmKJPYzV5u3DaW0sOYfejAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9/OKk/IrUYgA9EhdQwgAAAA==[0mosboxes
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins7760813327822394304.sh
++ /tmp/script.sh karthick Raja true
+hello,karthick Raja
+Finished: SUCCESS
